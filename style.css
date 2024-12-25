@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Robotto";
+}
+
+h1 {
+ text-decoration: underline;
+ color: blue;
+ margin-bottom: 20px;
+ text-align: center;
+ cursor: pointer;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: red;
+  }
+  th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  td {
+    background-color: yellow;
+  }
+  .tab2 {
+    width: 70%;
+    border-collapse: inherit;
+     
+  }
+  .new, .top {
+    color: black; 
+    text-align: center;
+  }
+  .top {
+    background-color: white;
+  }
+
